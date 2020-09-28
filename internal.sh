@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/system/xbin/bash
 
 LENGTH=4 #define length of pin-code
 ZERO='0'
